@@ -1,0 +1,55 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>fshader1.glsl</file>
+        <file>fshader3.glsl</file>
+        <file>fshader4.glsl</file>
+        <file>vshader1.glsl</file>
+        <file>vshader3.glsl</file>
+        <file>vshader4.glsl</file>
+        <file>fshader5.glsl</file>
+        <file>vshader5.glsl</file>
+        <file>fshader2.glsl</file>
+        <file>vshader2.glsl</file>
+        <file>fshader6.glsl</file>
+        <file>fshader8.glsl</file>
+        <file>fshader7.glsl</file>
+        <file>vshader6.glsl</file>
+        <file>vshader7.glsl</file>
+        <file>vshader8.glsl</file>
+        <file>fshader9.glsl</file>
+        <file>vshader9.glsl</file>
+        <file>fshader10.glsl</file>
+        <file>vshader10.glsl</file>
+        <file>fshader11.glsl</file>
+        <file>fshader12.glsl</file>
+        <file>vshader12.glsl</file>
+        <file>vshader11.glsl</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file>sphere.off</file>
+    </qresource>
+    <qresource prefix="/imagens">
+        <file>laranja.jpg</file>
+        <file>limao.jpg</file>
+        <file>fogo.jpg</file>
+        <file>agua.jpg</file>
+        <file>ufabc.jpg</file>
+        <file>xadrez.png</file>
+        <file>pedregulho.jpg</file>
+        <file>pedra2.bmp</file>
+        <file>pedra.jpg</file>
+        <file>BTStone.bmp</file>
+    </qresource>
+    <qresource prefix="/cubemap">
+        <file>negx.jpg</file>
+        <file>negz.jpg</file>
+        <file>posx.jpg</file>
+        <file>posz.jpg</file>
+        <file>negy.jpg</file>
+        <file>posy.jpg</file>
+    </qresource>
+    <qresource prefix="/normalmap">
+        <file>fieldstone-n.jpg</file>
+        <file>fieldstone-c.jpg</file>
+    </qresource>
+</RCC>
